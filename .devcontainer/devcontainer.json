@@ -1,5 +1,12 @@
 {export-0xd41a74d3713ce95c180bc9e91a8bff68ac34b58e.csv
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "IoliteLabs.solidity-linux"
+      ]
+    }
   }
 }
